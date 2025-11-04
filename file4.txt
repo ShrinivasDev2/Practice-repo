@@ -1,1 +1,2 @@
-THis is the fourth file added from branch2. 
+THis is the fourth file added from branch2.
+Now editing this file to push into branch2 to create a conflict. 
