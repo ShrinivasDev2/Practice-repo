@@ -1,2 +1,3 @@
 THis is the fourth file added from branch2.
 Now trying to create a merge conflict in the CLI. 
+Added some modification
